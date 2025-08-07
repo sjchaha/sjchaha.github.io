@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Erric</title>
+        <link>https://example.com/zh-cn/page/</link>
+        <description>Recent content in Pages on Erric</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于</title>
+        <link>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;Hugo 由 Go 语言编写，是一款开源静态网站生成器，基于《Apache 许可证 2.0》授权（详见 &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apache License 2.0.&lt;/a&gt;）。Hugo 支持 TOML、YAML 和 JSON 数据文件格式，可处理 Markdown 和 HTML 内容文件，并通过短代码（shortcodes）添加丰富内容。其他值得关注的功能包括分类法、多语言模式、图像处理、自定义输出格式、HTML/CSS/JS 压缩，以及对 Sass/SCSS 工作流的支持。&lt;/p&gt;
+&lt;p&gt;Hugo 借助了多个开源项目，其中包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo 适用于博客、企业网站、创意作品集、在线杂志、单页应用，甚至是拥有数千页面的网站。&lt;/p&gt;
+&lt;p&gt;Hugo 适合那些希望手动编写自己的网站，而不必担心设置复杂的运行时、依赖项和数据库的人。&lt;/p&gt;
+&lt;p&gt;使用 Hugo 构建的网站速度极快、安全性高，并且可以部署在任何地方，包括亚马逊云服务（AWS）、GitHub Pages、Heroku 以及任何其他托管服务商。&lt;/p&gt;
+&lt;p&gt;学习更多请访问 &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>档案</title>
+        <link>https://example.com/zh-cn/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/zh-cn/archives/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
